@@ -1,10 +1,10 @@
 ---
-title: "Demo Post 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
+title: "Bóng đá"
+description: "Tham gia các hoạt động thể thao, đặc biệt là bóng đá, giúp tôi phát triển tinh thần đồng đội, sự kiên trì và khả năng phối hợp trong tập thể."
+pubDate: "March, 2024"
 heroImage: "/anh 3.bin"
 badge: "Demo badge"
-tags: ["rust","tokio"]
+tags: ["LHD"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
